@@ -1,0 +1,32 @@
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
+a:active {
+    color: orange;
+    text-decoration: none;
+}
+
+.top5 {
+    list-style-type: upper-roman;
+}
+.mb {
+    list-style-type: circle;
+}
+.icon1 {
+    list-style-image: url(https://img.icons8.com/emoji/20/000000/blue-book.png);
+}
+.icon2 {
+    list-style-image: url(https://img.icons8.com/emoji/20/000000/green-book.png);
+}
+.icon3 {
+    list-style-image: url(https://img.icons8.com/emoji/20/000000/orange-book.png);
+}

@@ -1,0 +1,18 @@
+.box {
+    display: inline-block;
+    }
+#box2 {
+    position: absolute;
+    left: 190px;
+    top: 450px;
+}
+#box3 {
+    position: absolute;
+    left: 135px;
+    top: 380px;
+}
+#box4 {
+    position: absolute;
+    left: 20px;
+    top: 450px;
+}

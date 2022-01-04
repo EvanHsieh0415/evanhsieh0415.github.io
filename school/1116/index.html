@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>web 1116 - </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <form id="order-form" action="fin.html" method="GET">
+            <fieldset>
+                <legend>訂購人資訊</legend>
+                <p>
+                    <label for="">
+                        <span class="required-text">*</span>姓名：<input type="text" required value="王小明">
+                    </label>
+                    
+                </p>
+                <p>
+                    <label for="">
+                        <span class="required-text">*</span>地址：<input type="address" required placeholder="記得填寫樓層">
+                    </label>
+                </p>
+                <p>
+                    <label for="">
+                        <span class="required-text">*</span>電話：<input type="tel" required pattern="09([0-9]{8})|02-([0-9]{4})-([0-9]{4})" placeholder="09xxxxxxxx">
+                    </label>
+                </p>
+                <p>
+                    <label for="">
+                        郵件：<input type="email">
+                    </label>
+                    
+                </p>
+                <p>
+                    <label for="">
+                        <span class="required-text">*</span>送達日期：<input type="date" required>
+                    </label>
+                </p>
+                <p>
+                    <label for="">
+                        <span class="required-text">*</span>送達時間：<input type="time" required>
+                    </label>
+                </p>
+            </fieldset>
+            <fieldset>
+                <legend>訂購內容</legend>
+                <p>
+                    <label for="">
+                        <input type="checkbox" value="checkbox-1" id="checkbox-1-0">雞屁股　<input type="number" min="1" max="10" class="index-number">
+                    </label>
+                    <br>
+                    <label for="">
+                        <input type="checkbox" value="checkbox-2" id="checkbox-1-1">雞脖子　<input type="number" min="1" max="10" class="index-number">
+                    </label>
+                    <br>
+                    <label for="">
+                        <input type="checkbox" value="checkbox-3" id="checkbox-1-2">鑫鑫腸　<input type="number" min="1" max="10" class="index-number">
+                    </label>
+                </p>
+                <p>
+                    <h3>開幕誌慶 二擇一</h3>
+                    <label for="">
+                        <input type="radio" name="radio-group-1" value="radio-1" id="radio-1-0">紅茶
+                    </label>
+                    <label for="">
+                        <input type="radio" name="radio-group-1" value="radio-2" id="radio-1-0">綠茶
+                    </label>
+                </p>
+            </fieldset>
+            <input type="reset">
+            <input type="submit">
+        </form>
+    </body>
+</html>
