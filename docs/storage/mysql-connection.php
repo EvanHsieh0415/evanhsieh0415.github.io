@@ -42,8 +42,10 @@
         while ($row = $select_result -> fetch_assoc()) {
             print "<tr><th>" . $row["name"] . "</th><td>" . $row["score"] . "</td></tr>";
         }
-        print "</tbody></table>";
+        print "</tbody></table><hr>";
 
+        $connection -> close();
+        print "連線已關閉";
     } else {
         print "<span style=\"color:red\">Failed</span>";
     }
