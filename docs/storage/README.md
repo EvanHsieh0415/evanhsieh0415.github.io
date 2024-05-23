@@ -1,10 +1,10 @@
 # List of Files
 
 .  
-├── [README.md](README.md)  
-├── [mysql-connection.php](mysql-connection.php)  
-├── [mysql-connection.py](mysql-connection.py)  
-└── [requirements.txt](requirements.txt)  
+├── <a href="README.md" download>README.md</a>  
+├── <a href="mysql-connection.php" download>mysql-connection.php</a>  
+├── <a href="mysql-connection.py" download>mysql-connection.py</a>  
+└── <a href="requirements.txt" download>requirements.txt</a>  
 
 ---
 0 directories, 4 files
