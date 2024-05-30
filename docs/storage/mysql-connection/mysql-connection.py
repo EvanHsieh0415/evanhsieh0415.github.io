@@ -1,5 +1,3 @@
-from time import sleep
-
 import pymysql
 from rich.console import Console
 from rich.table import Table
