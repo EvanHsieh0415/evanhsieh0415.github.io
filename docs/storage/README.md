@@ -9,7 +9,7 @@
 │   ├── <a href="mysql-connection/mysql-connection.py" download>mysql-connection.py</a>
 │   └── <a href="mysql-connection/requirements.txt" download>requirements.txt</a>
 │
-└─personal-page
+└── personal-page
     └── <a href="personal-page/personal-page.zip" download>personal-page.zip</a>
 
 2 directory, 6 files
