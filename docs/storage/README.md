@@ -10,7 +10,7 @@
 │   └── <a href="mysql-connection/requirements.txt" download>requirements.txt</a>
 │
 └─personal-page
-    └── <a href="personal-page.zip" download>personal-page.zip</a>
+    └── <a href="personal-page/personal-page.zip" download>personal-page.zip</a>
 
 2 directory, 6 files
 </pre>
