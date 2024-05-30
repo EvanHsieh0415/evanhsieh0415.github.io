@@ -24,14 +24,11 @@ if database_connection.open:
     table = Table(show_header=True, header_style="bold magenta")
     table.add_column("Name", style="bold")
     table.add_column("Score")
-
     for data in select_result:
         table.add_row(*map(str, data))
-
     console.log(table)
-    database_connection.close()
 
-    sleep(0.5)
+    database_connection.close()
     console.log("關閉連線")
 else:
     console.log("連線狀態：[red]Failed[/red]")
