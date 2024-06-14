@@ -12,4 +12,4 @@
   - C#
     - <a href="https://drive.google.com/file/d/1H0WFupu3RWrNZWW7SMifsBj2BEsHZbSP/view?usp=sharing" target="_blank">mysql-connection-vs.zip (outbound)</a>
   - PHP
-    - <a href="./mysql-insert-delete/mysql-insert-delete.php" target="_blank" download>mysql-insert-delete.php</a>
+    - <a href="./mysql-insert-delete/index.php" target="_blank" download>index.php</a>
