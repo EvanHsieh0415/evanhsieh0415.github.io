@@ -1,7 +1,3 @@
-# EvanHsieh's Personal Github Pages
+# 芒果的個人網站
 
-## Index
-
-- [personal-page](./personal-page/)
-- [storage](./storage/)
-- [useful-links](./useful-links/)
+歡迎來到芒果的個人網站！
