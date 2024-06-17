@@ -1,10 +1,10 @@
-# EvanHsieh0415's Personal Website
+# EvanHsieh0415 的個人網站
 
-I'm MangoJellyPudding aka Mango
+我是芒果凍布丁 aka 芒果  
 
-Making projects is like playing games - I like to code.
+寫專案對我來說就像是玩遊戲一樣，我喜歡寫程式！
 
-## Skill Set
+## 技能樹
 
 - Python
 - HTML / JavaScript / CSS
@@ -12,7 +12,7 @@ Making projects is like playing games - I like to code.
 - C#
 - PHP
 
-## Github Status
+## Github 狀態
 
 [![](https://raw.githubusercontent.com/EvanHsieh0415/github-profile-summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/EvanHsieh0415/github-profile-summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EvanHsieh0415/github-profile-summary-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
