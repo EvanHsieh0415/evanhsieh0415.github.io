@@ -7,7 +7,7 @@ const theme = defaultTheme({
   colorMode: "dark",
   colorModeSwitch: true,
 
-  repo: "Mango-Minecraft-Project/RandBlock-Rewrite",
+  repo: "EvanHsieh0415/evanhsieh.github.io",
   editLinkPattern: ":repo/edit/:branch/:path",
 
   lastUpdated: true,
