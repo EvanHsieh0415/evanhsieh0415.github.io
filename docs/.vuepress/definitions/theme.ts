@@ -1,6 +1,5 @@
 import { defaultTheme } from "@vuepress/theme-default";
 
-/** @type {defaultTheme} */
 const theme = defaultTheme({
   logo: "/images/pack-icon.png",
   logoAlt: "",

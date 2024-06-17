@@ -621,7 +621,7 @@
   dependencies:
     "@vuepress/helper" "2.0.0-rc.34"
 
-"@vuepress/plugin-markdown-container@2.0.0-rc.34":
+"@vuepress/plugin-markdown-container@2.0.0-rc.34", "@vuepress/plugin-markdown-container@^2.0.0-rc.34":
   version "2.0.0-rc.34"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-markdown-container/-/plugin-markdown-container-2.0.0-rc.34.tgz#6f7f051f3f09a0ede1214e60240b816051c7899f"
   integrity sha512-R8kj0vSGgOVPZ+kxks+DJNr07iw7uHGt6TliXgpMiMWE16iV5W5HmBy2PnKRwWHg4HPkNUF60heLKpZkxp6gHw==
