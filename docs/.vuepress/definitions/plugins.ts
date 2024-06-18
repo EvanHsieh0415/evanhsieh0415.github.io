@@ -7,7 +7,14 @@ export const plugins = [
   }),
   componentsPlugin({
     components: [
-      "VPCard"
+      "VPCard",
+      "FontIcon"
     ],
+    componentOptions: {
+      fontIcon: {
+        assets: "fontawesome-with-brands",
+        prefix: "fa-brands fa-"
+      }
+    }
   })
 ];
