@@ -11,7 +11,8 @@
     "@vuepress/plugin-theme-data": "2.0.0-rc.34",
     "@vuepress/theme-default": "^2.0.0-rc.35",
     "vue": "^3.4.29",
-    "vuepress": "2.0.0-rc.13"
+    "vuepress": "2.0.0-rc.13",
+    "vuepress-plugin-components": "2.0.0-rc.48"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
