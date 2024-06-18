@@ -6,11 +6,11 @@
 
 ## 技能樹
 
-- Python
-- HTML / JavaScript / CSS
-- NodeJS
+- <FontIcon icon="python"/> Python
+- <FontIcon icon="html5"/> HTML 5 / <FontIcon icon="js"/> JavaScript / <FontIcon icon="css3-alt"/> CSS3
+- <FontIcon icon="node-js"/> NodeJS / <FontIcon icon="vuejs"/> VueJS
 - C#
-- PHP
+- <FontIcon icon="php"/>PHP
 
 ## Github 狀態
 
