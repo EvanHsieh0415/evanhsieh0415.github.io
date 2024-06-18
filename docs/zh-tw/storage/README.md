@@ -6,7 +6,7 @@
 
 [`mysql-connection.cs`](https://raw.githubusercontent.com/EvanHsieh0415/evanhsieh0415.github.io/main/data/mysql-connection/mysql-connection.cs)
 
-<details><summary>程式碼</summary>
+::: details 程式碼
 
 ```cs
 using System;
@@ -53,13 +53,13 @@ namespace mysql_connection
     }
 }
 ```
-</details>
+:::
 
 ### PHP
 
 [`mysql-connection.php`](https://raw.githubusercontent.com/EvanHsieh0415/evanhsieh0415.github.io/main/data/mysql-connection/mysql-connection.php)
 
-<details><summary>程式碼</summary>
+::: details 程式碼
 
 ```php
 <!DOCTYPE html>
@@ -117,13 +117,13 @@ namespace mysql_connection
 </body>
 </html>
 ```
-</details>
+:::
 
 ### Python
 
 [`mysql-connection.py`](https://raw.githubusercontent.com/EvanHsieh0415/evanhsieh0415.github.io/main/data/mysql-connection/mysql-connection.py)
 
-<details><summary>程式碼</summary>
+::: details 程式碼
 
 ```py
 import pymysql
@@ -159,7 +159,7 @@ if database_connection.open:
 else:
     console.log("連線狀態：[red]Failed[/red]")
 ```
-</details>
+:::
 
 :::tip
 記得安裝[套件](https://raw.githubusercontent.com/EvanHsieh0415/evanhsieh0415.github.io/main/data/mysql-connection/requirements.txt)！
@@ -181,7 +181,7 @@ rich
 
 [index.php](https://raw.githubusercontent.com/EvanHsieh0415/evanhsieh0415.github.io/main/data/mysql-insert-delete/index.php)
 
-<details><summary>程式碼</summary>
+::: details 程式碼
 
 ```php
 <!DOCTYPE html>
@@ -296,4 +296,4 @@ rich
 
 </html>
 ```
-</details>
+:::
