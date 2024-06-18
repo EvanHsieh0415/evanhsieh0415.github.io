@@ -21,11 +21,7 @@ export const theme = defaultTheme({
       home: "/zh-tw/",
       navbar: [{ text: "Discord", link: "/links/discord.md" }],
 
-      sidebar: [
-        "storage/",
-        "useful-links/",
-        "games/",
-      ],
+      sidebar: ["storage/", "useful-links/", "games/"],
 
       selectLanguageText: "選擇語言",
       editLinkText: "在 GitHub 編輯此頁面",
