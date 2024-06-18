@@ -1,8 +1,23 @@
 # 遊戲帳號
 
-## 線上遊戲
+這裡列出所有我現在 / 曾經遊玩過的遊戲
 
-### 米哈遊
+## 喜歡的遊戲
+
+<div class="vp-card-container">
+  <VPCard
+    title="Minecraft"
+    desc="evan_hsieh<br><small>標籤：<code>開放世界</code> <code>沙盒</code></small>"
+    logo="https://raw.githubusercontent.com/numixproject/numix-core/cf30a958ca231e1195dadd241ed43f6e9378c4d0/icons/circle/48/minecraft.svg"
+  />
+  <VPCard
+    title="泰拉瑞亞"
+    desc="<small>標籤：<code>沙盒</code> <code>冒險</code></small>"
+    logo="https://cloud.githubusercontent.com/assets/11085317/9673872/b803d35a-526e-11e5-854d-7c82a9f7c7ef.png"
+  />
+</div>
+
+## 米哈遊
 
 <div class="vp-card-container">
   <VPCard
@@ -22,7 +37,7 @@
   />
 </div>
 
-### SuperCell
+## SuperCell
 
 <div class="vp-card-container">
   <VPCard
@@ -47,7 +62,29 @@
   />
 </div>
 
-### 其他
+## 音樂遊戲
+
+<div class="vp-card-container">
+  <VPCard
+    title="Phigros"
+    logo="https://play-lh.googleusercontent.com/IQHEMsqUXxWdPNSFD42NgAGoVf9n3HEMfUQ2rMWj8o1Ioi_UHCYJ9g3TK-jYm2yEzdo=s256"
+  />
+  <VPCard
+    title="Arcaea"
+    logo="https://play-lh.googleusercontent.com/6vtKnbt-Rd5y5KIDHUy5adgZAmHBKBMmat0MiRh53qPYr6KqIvgSsYcqAQCsP_CeXXM=s256"
+  />
+  <VPCard
+    title="Mush Dash"
+    logo="https://play-lh.googleusercontent.com/rvN7TReiqTlZ-LDKI_8d5L8KDmk2Bisa15X98pPKm_1fqAICOxU05_HQtvjv-e23yw=s256"
+  />
+  <VPCard
+    title="Rataeno"
+    logo="https://play-lh.googleusercontent.com/0e5B8GgtIysXDW1jnz31a2lYB0UWMAZZ77Kob-J-wHiZfBWTXK0bRP77Vem6qtbYkpfr=s256"
+  />
+  
+</div>
+
+## 其他
 
 <div class="vp-card-container">
   <!-- <VPCard
@@ -77,42 +114,18 @@
   />
   <VPCard
     title="絕地求生 M"
-    desc="｜UID：<br><small>標籤：<code>動作</code> <code>線上對戰</code> <code>大逃殺</code> <code>槍戰</code></small>"
+    desc="TwGxYTMango｜UID：<br><small>標籤：<code>動作</code> <code>線上對戰</code> <code>大逃殺</code> <code>槍戰</code></small>"
     logo="https://play-lh.googleusercontent.com/J63785Y2YUoZirCgiCR9lt5ZkqnMt9rDTptm4S9TDpCDMYr5JXebfI__3UwreatUm5U=s256"
   />
   <VPCard
-    title="塵白禁域"
-    desc="｜UID：<br><small>標籤：<code>動作</code> <code>角色培養</code></small>"
+    title="塵白禁域（亞洲區域）"
+    desc="芒果凍布丁｜UID：11546013<br><small>標籤：<code>動作</code> <code>角色培養</code></small>"
     logo="https://play-lh.googleusercontent.com/rzvj2FaKgGNlLOjMPl0DVXX5uL9ash2u_2JZu_eAmYcleMrw4Hgecla1dF8XRw5rgfY=s256"
   />
   <VPCard
     title="蔚藍檔案"
     desc="｜UID：<br><small>標籤：<code>放置</code> <code>角色培養</code></small>"
     logo="https://play-lh.googleusercontent.com/5rV57TpM6thlYxS0ETRMpGM7rHWHc4llEapEVxTTpte4wZQ8csTNH-4fjRAAwIS7iw=s256"
-  />
-  
-</div>
-
-## 單人遊戲
-
-### 音樂遊戲
-
-<div class="vp-card-container">
-  <VPCard
-    title="Phigros"
-    logo="https://play-lh.googleusercontent.com/IQHEMsqUXxWdPNSFD42NgAGoVf9n3HEMfUQ2rMWj8o1Ioi_UHCYJ9g3TK-jYm2yEzdo=s256"
-  />
-  <VPCard
-    title="Arcaea"
-    logo="https://play-lh.googleusercontent.com/6vtKnbt-Rd5y5KIDHUy5adgZAmHBKBMmat0MiRh53qPYr6KqIvgSsYcqAQCsP_CeXXM=s256"
-  />
-  <VPCard
-    title="Mush Dash"
-    logo="https://play-lh.googleusercontent.com/rvN7TReiqTlZ-LDKI_8d5L8KDmk2Bisa15X98pPKm_1fqAICOxU05_HQtvjv-e23yw=s256"
-  />
-  <VPCard
-    title="Rataeno"
-    logo="https://play-lh.googleusercontent.com/0e5B8GgtIysXDW1jnz31a2lYB0UWMAZZ77Kob-J-wHiZfBWTXK0bRP77Vem6qtbYkpfr=s256"
   />
   
 </div>
