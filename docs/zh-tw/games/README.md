@@ -50,11 +50,11 @@
 ### 其他
 
 <div class="vp-card-container">
-  <VPCard
+  <!-- <VPCard
     title="天下布魔"
     desc="芒果凍布丁｜UID：466994310<br><small>標籤：<code>R18</code> <code>放置</code></small>"
     logo="https://res-r.qingjiaota.com/image/index_icon/1717561680639.jpg"
-  />
+  /> -->
   <VPCard
     title="貓之城（昆士區）"
     desc="芒果凍布丁｜UID：950893<br><small>標籤：<code>放置</code> <code>角色培養</code></small>"
@@ -66,7 +66,7 @@
     logo="https://play-lh.googleusercontent.com/ameFGPYH-qhOSxdsSA_fA54I4Ch-eO8y7Pj4x6W6ejQkvKbhVjCehKlPerBY9X2L8ek=s256"
   />
   <VPCard
-    title="碧藍航線"
+    title="碧藍航線（珍珠港）"
     desc="｜UID：<br><small>標籤：<code>放置</code> <code>角色培養</code></small>"
     logo="https://play-lh.googleusercontent.com/QTn5vo2QdvCweaa7xaIGNpCEX1w41N1EfCZPNBEJanWPJ42URp7ZFQHKLfjsKjIS8UEi=s256"
   />

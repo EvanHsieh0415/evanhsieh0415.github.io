@@ -22,9 +22,9 @@ export const theme = defaultTheme({
       navbar: [{ text: "Discord", link: "/links/discord.md" }],
 
       sidebar: [
-        { text: "儲存庫", link: "storage/" },
-        { text: "實用的連結", link: "useful-links/" },
-        { text: "遊戲", link: "games/" },
+        "storage/",
+        "useful-links/",
+        "games/",
       ],
 
       selectLanguageText: "選擇語言",
