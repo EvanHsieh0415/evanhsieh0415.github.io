@@ -17,6 +17,7 @@ export const plugins = [
     },
   }),
   MdDefinePlugin({
-    __: {},
+    GooglePlay: "https://play-lh.googleusercontent.com",
+    __var: {},
   }),
 ];
